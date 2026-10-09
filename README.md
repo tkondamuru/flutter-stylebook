@@ -1,4 +1,5 @@
-# TJ's Flutter best-practices → LoRA
+# flutter-stylebook
+Detailed style documentation of TJ's Flutter mobile patterns — components, conventions, and the do's and don'ts extracted from a production app. Doubles as training data for a style model.
 
 ## Workflow
 1. TJ uses the app and explains a part he likes in minute detail.
